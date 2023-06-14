@@ -1,4 +1,4 @@
-PERN Team member Selection App on the basis of rank
+PERN Team member Selection App
 
 This is a simple web application built using the PERN stack (PostgreSQL, Express, React, Node.js). It allows you to select a team and assign tasks to team members based on their ranks.
 Features
